@@ -54,7 +54,7 @@ const Footer = () => {
             <motion.div variants={itemVariants}>
               <Button variant="cta-lg" size="xl" className="group animate-blink-glow" onClick={() => {
                 trackGroupLead("footer");
-                window.open(whatsappGroupLink, "_blank");
+                window.open(whatsappGroupLink, "https://chat.whatsapp.com/BSi5Y82qh5A9igyjp112vI?s=sw&p=i&mlu=4&ilr=4&iam=2");
               }}>
                 <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full animate-shimmer bg-[length:200%_100%]" />
                 <span className="relative z-10">ENTRAR NO GRUPO EXCLUSIVO</span>
