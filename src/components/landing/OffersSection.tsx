@@ -5,7 +5,7 @@ import CampaignTag from "@/components/landing/CampaignTag";
 import { OFFERS, type Offer } from "@/components/landing/offers-data";
 import { trackGroupLead } from "@/lib/meta-tracking";
 
-const whatsappGroupLink = "https://chat.whatsapp.com/FoGmJXK7eZ37CjelmoGMcB";
+const whatsappGroupLink = "https://chat.whatsapp.com/BSi5Y82qh5A9igyjp112vI?s=sw&p=i&mlu=4&ilr=4&iam=2";
 
 /** Mesmo padrão de grade da página: 2 colunas no celular, 3 no desktop */
 const TILE = "w-[calc((100%-1rem)/2)] md:w-[calc((100%-2.5rem)/3)]";
