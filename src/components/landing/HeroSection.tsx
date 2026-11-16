@@ -6,7 +6,7 @@ import { motion, useScroll, useTransform, type Variants } from "framer-motion";
 import { useRef } from "react";
 
 const HeroSection = () => {
-  const whatsappGroupLink = "https://chat.whatsapp.com/FoGmJXK7eZ37CjelmoGMcB?mode=gi_t";
+  const whatsappGroupLink = "https://chat.whatsapp.com/BSi5Y82qh5A9igyjp112vI?s=sw&p=i&mlu=4&ilr=4&iam=2";
   const sectionRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({ target: sectionRef, offset: ["start start", "end start"] });
   const backgroundY = useTransform(scrollYProgress, [0, 1], ["0%", "12%"]);

@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
  * Text and link unchanged.
  */
 const MobileStickBar = () => {
-  const whatsappGroupLink = "https://chat.whatsapp.com/FoGmJXK7eZ37CjelmoGMcB?mode=gi_t";
+  const whatsappGroupLink = "https://chat.whatsapp.com/BSi5Y82qh5A9igyjp112vI?s=sw&p=i&mlu=4&ilr=4&iam=2";
 
   return (
     <div className="fixed inset-x-0 bottom-0 z-50 border-t border-primary bg-[var(--stick-bar)] px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] md:hidden">
