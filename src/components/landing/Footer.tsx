@@ -3,7 +3,7 @@ import { motion, type Variants } from "framer-motion";
 import extremaSurfLogo from "@/assets/images/extrema-surf-logo.png";
 import { trackGroupLead } from "@/lib/meta-tracking";
 const Footer = () => {
-  const whatsappGroupLink = "https://chat.whatsapp.com/FoGmJXK7eZ37CjelmoGMcB?mode=gi_t";
+  const whatsappGroupLink = "https://chat.whatsapp.com/BSi5Y82qh5A9igyjp112vI?s=sw&p=i&mlu=4&ilr=4&iam=2";
   const containerVariants: Variants = {
     hidden: {
       opacity: 0
